@@ -3,8 +3,8 @@
 # 👋 Hello! I'm Maxim Egortsev (vulkan790)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📍-Taganrog%2C%20Russia%20%7C%20SFEDU-CA5F81?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=000" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎓-Southern%20Federal%20University-7145B9?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=000" alt="Student"/>
+  <img src="https://img.shields.io/badge/Taganrog%2C%20Russia%20%7C%20SFEDU-F77F00?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=0A0A0A" alt="Location"/>
+  <img src="https://img.shields.io/badge/Southern%20Federal%20University-003049?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0A0A0A" alt="Student"/>
 </div>
 
 ![snake gif](https://github.com/vulkan790/vulkan790/blob/output/github-snake-dark.svg)
@@ -67,11 +67,12 @@
 
 ## 📫 How to reach me
 
-- **GitHub:** [@vulkan790](https://github.com/vulkan790)
-- **Email:** *max_egortsev@mail.ru*
-- <a href="https://t.me/Vulkan3004">
+**GitHub:** [@vulkan790](https://github.com/vulkan790)
+**Email:** *max_egortsev@mail.ru*
+<a href="https://t.me/Vulkan3004">
     <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="Telegram Badge"/>
-  </a>
+</a>
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/VulkanitGO2005)
 
 ---
 
