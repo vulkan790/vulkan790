@@ -67,7 +67,7 @@
 <summary>🎯 Short-term Goals</summary>
 
 - [ ] Start learning TypeScript for Frontend development
-- [ ] Master Vitest for testing Vue components
+- [ ] Learn Vitest for testing Vue components
 - [ ] Learn backend development (Next.js/TypeScript)
 - [ ] Create a full-fledged serious Frontend project
 
