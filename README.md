@@ -2,6 +2,11 @@
 
 # 👋 Hello! I'm Maxim Egortsev (vulkan790)
 
+<div align="center">
+  <img src="https://img.shields.io/badge/📍-Taganrog%2C%20Russia%20%7C%20SFEDU-CA5F81?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=000" alt="Location"/>
+  <img src="https://img.shields.io/badge/🎓-Southern%20Federal%20University-7145B9?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=000" alt="Student"/>
+</div>
+
 ![snake gif](https://github.com/vulkan790/vulkan790/blob/output/github-snake-dark.svg)
 
 </div>
@@ -53,6 +58,13 @@
 
 ---
 
+## 📚 Образование и интересы
+
+- 🎓 **Студент Южного Федерального Университета** (Специальность: Программная инженерия/Информатика)
+- 💡 **Интересы:** Алгоритмы, Структуры данных, Веб-разработка, Разработка игр (Unreal Engine 5), Микроконтроллеры (Arduino, ESP)
+
+---
+
 ## 📫 How to reach me
 
 - **GitHub:** [@vulkan790](https://github.com/vulkan790)
@@ -75,8 +87,9 @@
 <summary>🎯 Цели на ближайшее время</summary>
 
 - [ ] Начать изучение TypeScript для Frontend - разработки
+- [ ] Освоить Vitest для тестирования Vue компонентов
 - [ ] Освоить backend разработку (Next.js/TypeScript)
-- [ ] Создать Fullstack проект
+- [ ] Создать полноценный серьёзный Frontend проект
 
 </details>
 
@@ -84,6 +97,8 @@
 
 <summary>🔥 Долгосрочные цели</summary>
 
+- [ ] Создать Fullstack проект
 - [ ] Стать Fullstack - разработчиком
+- [ ] Совершенствовать свои текущие знания, интересы и умения
 
 </details>
