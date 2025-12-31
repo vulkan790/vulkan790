@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1 align="center" style="color: #F77F00; animation: pulse 2s infinite;">
-  👋 Hello! I'm Maxim Egortsev (vulkan790)
-</h1>
+# 👋 Hello! I'm Maxim Egortsev (vulkan790)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Taganrog%2C%20Russia%20%7C%20SFEDU-F77F00?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=0A0A0A" alt="Location"/>
@@ -15,8 +13,16 @@
 
 ---
 
-<details open>
-<summary><b>🇺🇸 English Version</b></summary>
+<div align="center">
+  <h3>
+    <a href="#english-version">🇺🇸 English</a> |
+    <a href="#русская-версия">🇷🇺 Русский</a>
+  </h3>
+</div>
+
+---
+
+## 🇺🇸 English Version
 
 ## 🛠️ Languages, Frameworks and Technologies I Use
 
@@ -58,23 +64,39 @@
 
 ---
 
-## 🎯 Short-term Goals
-- [ ] Start learning TypeScript for Frontend development
-- [ ] Master Vitest for Vue component testing
-- [ ] Explore backend development (Next.js/TypeScript)
-- [ ] Create a serious Frontend project
+## 📫 How to reach me
 
-## 🔥 Long-term Goals
-- [ ] Build a Fullstack project
-- [ ] Become a Fullstack developer
-- [ ] Continuously improve current knowledge, interests, and skills
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vulkan790)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/vulkan790)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vulkan3004)
+[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:max_egortsev@mail.ru)
+
+---
+
+<details>
+<summary>🎯 Short-term Goals</summary>
+
+- [ ] Start learning TypeScript for Frontend development
+- [ ] Master Vitest for testing Vue components
+- [ ] Learn backend development (Next.js/TypeScript)
+- [ ] Create a full-fledged serious Frontend project
 
 </details>
 
 <details>
-<summary><b>🇷🇺 Русская Версия</b></summary>
+<summary>🔥 Long-term Goals</summary>
 
-## 🛠️ Языки, Фреймворки и Технологии
+- [ ] Create a Fullstack project
+- [ ] Become a Fullstack developer
+- [ ] Improve my current knowledge, interests and skills
+
+</details>
+
+---
+
+## 🇷🇺 Русская версия
+
+## 🛠️ Языки, Фреймворки и Технологии, которые я использую
 
 <div align="center">
 
@@ -114,91 +136,39 @@
 
 ---
 
-## 🎯 Цели на ближайшее время
-- [ ] Начать изучение TypeScript для Frontend-разработки
+## 📫 Как со мной связаться
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vulkan790)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/vulkan790)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vulkan3004)
+[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:max_egortsev@mail.ru)
+
+---
+
+<details>
+<summary>🎯 Цели на ближайшее время</summary>
+
+- [ ] Начать изучение TypeScript для Frontend - разработки
 - [ ] Освоить Vitest для тестирования Vue компонентов
-- [ ] Изучить backend разработку (Next.js/TypeScript)
+- [ ] Освоить backend разработку (Next.js/TypeScript)
 - [ ] Создать полноценный серьёзный Frontend проект
 
-## 🔥 Долгосрочные цели
+</details>
+
+<details>
+<summary>🔥 Долгосрочные цели</summary>
+
 - [ ] Создать Fullstack проект
-- [ ] Стать Fullstack-разработчиком
+- [ ] Стать Fullstack - разработчиком
 - [ ] Совершенствовать свои текущие знания, интересы и умения
 
 </details>
 
 ---
 
-## 📫 How to reach me / Как связаться
+<div align="center">
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
-    <a href="https://github.com/vulkan790">
-        <img src="https://skillicons.dev/icons?i=github" height="40" />
-    </a>
-    <a href="https://codeforces.com/profile/vulkan790">
-        <img src="https://skillicons.dev/icons?i=codeforces" height="40" />
-    </a>
-    <a href="https://t.me/Vulkan3004">
-        <img src="https://skillicons.dev/icons?i=telegram" height="40" />
-    </a>
-    <a href="mailto:max_egortsev@mail.ru">
-        <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-    </a>
+[![Visitor Count](https://komarev.com/ghpvc/?username=vulkan790&color=blueviolet&label=Profile+Views)](https://github.com/vulkan790)
+[![GitHub Followers](https://img.shields.io/github/followers/vulkan790?style=social&label=Follow)](https://github.com/vulkan790)
+
 </div>
-
----
-
-<div align="center" style="animation: fadeIn 3s; margin-top: 50px;">
-  <h3 style="color: #F77F00; font-size: 24px; margin-bottom: 20px;">
-    ✨ Thanks for visiting! ✨
-  </h3>
-  <p style="color: #666; font-size: 16px;">
-    Have a great day! 😊
-  </p>
-</div>
-
-<style>
-
-@keyframes pulse {
-  0% { transform: scale(1); opacity: 1; }
-  50% { transform: scale(1.05); opacity: 0.9; }
-  100% { transform: scale(1); opacity: 1; }
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-h1 {
-  animation: pulse 2s infinite;
-}
-
-details {
-  margin: 20px 0;
-  padding: 15px;
-  border: 1px solid #444;
-  border-radius: 10px;
-  background: linear-gradient(145deg, #0f0f0f, #1a1a1a);
-}
-
-summary {
-  font-weight: bold;
-  cursor: pointer;
-  padding: 10px;
-  font-size: 18px;
-}
-
-details[open] {
-  box-shadow: 0 0 20px rgba(247, 127, 0, 0.2);
-}
-
-img[src*="skillicons"] {
-  transition: all 0.3s ease;
-}
-
-img[src*="skillicons"]:hover {
-  transform: translateY(-5px) scale(1.1);
-  filter: drop-shadow(0 5px 15px rgba(247, 127, 0, 0.4));
-}
-</style>
