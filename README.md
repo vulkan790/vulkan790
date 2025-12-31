@@ -11,20 +11,32 @@
 ## 🛠️ Languages, Frameworks and Technologies I Use
 
 <div align="center">
-    ### **Языки программирования:**
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-    </a>
-    <br>
-    ### **Веб-разработка:**
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,react,vuejs" />
-    </a>
-    <br>
-    ### **Инструменты:**
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,windows,vscode,visualstudio" />
-    </a>
+
+### **💻 Языки программирования**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=c" title="C" height="50" />
+    <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="50" />
+    <img src="https://skillicons.dev/icons?i=python" title="Python" height="50" />
+    <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" height="50" />
+</div>
+
+### **🌐 Веб-разработка**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />
+    <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />
+    <img src="https://skillicons.dev/icons?i=react" title="React" height="50" />
+    <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" height="50" />
+</div>
+
+### **⚙️ Инструменты и ПО**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=git" title="Git" height="50" />
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="50" />
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="50" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" height="50" />
+    <img src="https://skillicons.dev/icons?i=windows" title="Windows" height="50" />
+</div>
+
 </div>
 
 ---
@@ -44,9 +56,7 @@
 ## 📫 How to reach me
 
 - **GitHub:** [@vulkan790](https://github.com/vulkan790)
-- <a href="mailto:max_egortsev@mail.ru">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=mail.ru&label=&color=005FF9&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Email Badge"/>
-  </a>
+- **Email:** *max_egortsev@mail.ru*
 - <a href="https://t.me/Vulkan3004">
     <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="Telegram Badge"/>
   </a>
@@ -67,6 +77,10 @@
 - [ ] Начать изучение TypeScript для Frontend - разработки
 - [ ] Освоить backend разработку (Next.js/TypeScript)
 - [ ] Создать Fullstack проект
+
+</details>
+
+<details>
 
 <summary>🔥 Долгосрочные цели</summary>
 
