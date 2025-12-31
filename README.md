@@ -1,6 +1,7 @@
 <div align="center">
 
 # 👋 Hello! I'm Maxim Egortsev (vulkan790)
+# 👋 Здравствуйте! Я Максим Егорцев (vulkan790)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Taganrog%2C%20Russia%20%7C%20SFEDU-F77F00?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=0A0A0A" alt="Location"/>
