@@ -67,12 +67,10 @@
 
 ## 📫 How to reach me
 
-**GitHub:** [@vulkan790](https://github.com/vulkan790)
-**Email:** *max_egortsev@mail.ru*
-<a href="https://t.me/Vulkan3004">
-    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="Telegram Badge"/>
-</a>
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/VulkanitGO2005)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vulkan790)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/vulkan790)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vulkan3004)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max_egortsev@mail.ru)
 
 ---
 
@@ -95,7 +93,6 @@
 </details>
 
 <details>
-
 <summary>🔥 Долгосрочные цели</summary>
 
 - [ ] Создать Fullstack проект
