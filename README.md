@@ -23,6 +23,7 @@
     <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="50" />
     <img src="https://skillicons.dev/icons?i=python" title="Python" height="50" />
     <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" height="50" />
+    <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" height="50" />
 </div>
 
 ### **🌐 Web Development**
