@@ -40,6 +40,7 @@
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="50" />
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="50" />
     <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" height="50" />
+    <img src="https://skillicons.dev/icons?i=arduino" title="Arduino IDE" height="50" />
     <img src="https://skillicons.dev/icons?i=windows" title="Windows" height="50" />
 </div>
 
@@ -122,6 +123,7 @@
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="50" />
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="50" />
     <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" height="50" />
+  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino IDE" height="50" />
     <img src="https://skillicons.dev/icons?i=windows" title="Windows" height="50" />
 </div>
 
