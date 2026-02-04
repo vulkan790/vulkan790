@@ -77,10 +77,8 @@
 <details>
 <summary>🎯 Short-term Goals</summary>
 
-- [ ] Start learning TypeScript for Frontend development
 - [ ] Learn Vitest for testing Vue components
 - [ ] Learn backend development (Next.js/TypeScript)
-- [ ] Create a full-fledged serious Frontend project
 
 </details>
 
@@ -160,10 +158,8 @@
 <details>
 <summary>🎯 Цели на ближайшее время</summary>
 
-- [ ] Начать изучение TypeScript для Frontend - разработки
 - [ ] Освоить Vitest для тестирования Vue компонентов
 - [ ] Освоить backend разработку (Next.js/TypeScript)
-- [ ] Создать полноценный серьёзный Frontend проект
 
 </details>
 
