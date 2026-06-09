@@ -78,7 +78,7 @@
 <summary>🎯 Short-term Goals</summary>
 
 - [ ] Learn Vitest for testing Vue components
-- [ ] Learn backend development (Next.js/TypeScript)
+- [ ] Learn backend development (Python/FastAPI)
 
 </details>
 
@@ -160,7 +160,7 @@
 <summary>🎯 Цели на ближайшее время</summary>
 
 - [ ] Освоить Vitest для тестирования Vue компонентов
-- [ ] Освоить backend разработку (Next.js/TypeScript)
+- [ ] Освоить backend разработку (Python/FastAPI)
 
 </details>
 
