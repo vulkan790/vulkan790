@@ -32,6 +32,7 @@
     <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />
     <img src="https://skillicons.dev/icons?i=react" title="React" height="50" />
     <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" height="50" />
+    <img src="https://skillicons.dev/icons?i=postgresql" title="SQL" height="50" />
 </div>
 
 ### **⚙️ Tools & Software**
@@ -114,6 +115,7 @@
     <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />
     <img src="https://skillicons.dev/icons?i=react" title="React" height="50" />
     <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" height="50" />
+    <img src="https://skillicons.dev/icons?i=postgresql" title="SQL" height="50" />
 </div>
 
 ### **⚙️ Инструменты и ПО**
