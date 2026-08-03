@@ -59,19 +59,8 @@
 ## 📫 How to reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vulkan790)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/vulkan790)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vulkan3004)
 [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:max_egortsev@mail.ru)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vulkan790&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vulkan790&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vulkan790&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vulkan790&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vulkan790&theme=dark&utcOffset=8)
 
 ---
 
@@ -142,19 +131,8 @@
 ## 📫 Как со мной связаться
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vulkan790)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/vulkan790)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vulkan3004)
 [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:max_egortsev@mail.ru)
-
----
-
-## 📊 Статистика GitHub
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vulkan790&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vulkan790&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vulkan790&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vulkan790&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vulkan790&theme=dark&utcOffset=8)
 
 ---
 
