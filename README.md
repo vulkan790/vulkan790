@@ -75,7 +75,6 @@
 <details>
 <summary>🔥 Long-term Goals</summary>
 
-- [ ] Create a Fullstack project
 - [ ] Become a Fullstack developer
 - [ ] Improve my current knowledge, interests and skills
 
@@ -147,7 +146,6 @@
 <details>
 <summary>🔥 Долгосрочные цели</summary>
 
-- [ ] Создать Fullstack проект
 - [ ] Стать Fullstack - разработчиком
 - [ ] Совершенствовать свои текущие знания, интересы и умения
 
