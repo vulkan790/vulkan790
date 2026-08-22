@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Taganrog%2C%20Russia%20%7C%20SFEDU-F77F00?style=for-the-badge&logo=map-pin&logoColor=white&labelColor=0A0A0A" alt="Location"/>
+  <img src="https://img.shields.io/badge/Fullstack%20Developer-007ACC?style=for-the-badge&logo=code&logoColor=white" alt="Fullstack" height="25" />
   <img src="https://img.shields.io/badge/Southern%20Federal%20University-003049?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0A0A0A" alt="Student"/>
 </div>
 
