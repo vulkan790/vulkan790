@@ -26,23 +26,45 @@
     <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" height="50" />
 </div>
 
-### **🌐 Web Development**
+### **🎨 Frontend**
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />
     <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />
     <img src="https://skillicons.dev/icons?i=react" title="React" height="50" />
     <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" height="50" />
-    <img src="https://skillicons.dev/icons?i=postgresql" title="SQL" height="50" />
+    <img src="https://skillicons.dev/icons?i=vite" title="Vite" height="50" />
+    <img src="https://skillicons.dev/icons?i=pinia" title="pinia" height="50" />
 </div>
 
-### **⚙️ Tools & Software**
+### **⚙️ Backend & Databases**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" height="50" />
+    <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" height="50" />
+</div>
+
+### **🧰 Tools & DevOps**
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=git" title="Git" height="50" />
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="50" />
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="50" />
+    <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="50" />
+    <img src="https://skillicons.dev/icons?i=npm" title="npm" height="50" />
+</div>
+
+### **🛠 IDEs & OS**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="50" />
     <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" height="50" />
+    <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" height="50" />
+    <img src="https://skillicons.dev/icons?i=qt" title="Qt Designer" height="50" />
     <img src="https://skillicons.dev/icons?i=arduino" title="Arduino IDE" height="50" />
     <img src="https://skillicons.dev/icons?i=windows" title="Windows" height="50" />
+    <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="50" /> 
+</div>
+
+### **🎮 Game Development**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=unreal" title="Unreal Engine" height="50" />
 </div>
 
 </div>
@@ -97,23 +119,45 @@
     <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" height="50" />
 </div>
 
-### **🌐 Веб-разработка**
+### **🎨 Frontend**
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="50" />
     <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />
     <img src="https://skillicons.dev/icons?i=react" title="React" height="50" />
     <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" height="50" />
-    <img src="https://skillicons.dev/icons?i=postgresql" title="SQL" height="50" />
+    <img src="https://skillicons.dev/icons?i=vite" title="Vite" height="50" />
+    <img src="https://skillicons.dev/icons?i=pinia" title="pinia" height="50" />
 </div>
 
-### **⚙️ Инструменты и ПО**
+### **⚙️ Backend и Базы данных**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" height="50" />
+    <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" height="50" />
+</div>
+
+### **🧰 Инструменты и DevOps**
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=git" title="Git" height="50" />
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="50" />
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="50" />
+    <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="50" />
+    <img src="https://skillicons.dev/icons?i=npm" title="npm" height="50" />
+</div>
+
+### **🛠 Среды разработки и ОС**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="50" />
     <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" height="50" />
-  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino IDE" height="50" />
+    <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" height="50" />
+    <img src="https://skillicons.dev/icons?i=qt" title="Qt Designer" height="50" />
+    <img src="https://skillicons.dev/icons?i=arduino" title="Arduino IDE" height="50" />
     <img src="https://skillicons.dev/icons?i=windows" title="Windows" height="50" />
+    <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="50" /> 
+</div>
+
+### **🎮 Разработка игр**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=unreal" title="Unreal Engine" height="50" />
 </div>
 
 </div>
