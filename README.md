@@ -63,11 +63,6 @@
     <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="50" /> 
 </div>
 
-### **🎮 Game Development**
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=unreal" title="Unreal Engine" height="50" />
-</div>
-
 </div>
 
 ---
@@ -154,11 +149,6 @@
     <img src="https://skillicons.dev/icons?i=arduino" title="Arduino IDE" height="50" />
     <img src="https://skillicons.dev/icons?i=windows" title="Windows" height="50" />
     <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" height="50" /> 
-</div>
-
-### **🎮 Разработка игр**
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=unreal" title="Unreal Engine" height="50" />
 </div>
 
 </div>
