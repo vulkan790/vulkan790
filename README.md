@@ -33,6 +33,8 @@
     <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />
     <img src="https://skillicons.dev/icons?i=react" title="React" height="50" />
     <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" height="50" />
+    <img src="https://skillicons.dev/icons?i=vite" title="Vite" height="50" />
+    <img src="https://skillicons.dev/icons?i=pinia" title="pinia" height="50" />
 </div>
 
 ### **⚙️ Backend & Databases**
@@ -46,6 +48,8 @@
     <img src="https://skillicons.dev/icons?i=git" title="Git" height="50" />
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="50" />
     <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="50" />
+    <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="50" />
+    <img src="https://skillicons.dev/icons?i=npm" title="npm" height="50" />
 </div>
 
 ### **🛠 IDEs & OS**
@@ -117,6 +121,8 @@
     <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="50" />
     <img src="https://skillicons.dev/icons?i=react" title="React" height="50" />
     <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" height="50" />
+    <img src="https://skillicons.dev/icons?i=vite" title="Vite" height="50" />
+    <img src="https://skillicons.dev/icons?i=pinia" title="pinia" height="50" />
 </div>
 
 ### **⚙️ Backend и Базы данных**
@@ -130,6 +136,8 @@
     <img src="https://skillicons.dev/icons?i=git" title="Git" height="50" />
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="50" />
     <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="50" />
+    <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" height="50" />
+    <img src="https://skillicons.dev/icons?i=npm" title="npm" height="50" />
 </div>
 
 ### **🛠 Среды разработки и ОС**
