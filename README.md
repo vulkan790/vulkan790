@@ -85,15 +85,13 @@
 <details>
 <summary>🎯 Short-term Goals</summary>
 
-- [ ] Learn Vitest for testing Vue components
-- [ ] Learn backend development (Python/FastAPI)
+- [ ] Learn ML-development
 
 </details>
 
 <details>
 <summary>🔥 Long-term Goals</summary>
 
-- [ ] Become a Fullstack developer
 - [ ] Improve my current knowledge, interests and skills
 
 </details>
@@ -173,15 +171,13 @@
 <details>
 <summary>🎯 Цели на ближайшее время</summary>
 
-- [ ] Освоить Vitest для тестирования Vue компонентов
-- [ ] Освоить backend разработку (Python/FastAPI)
+- [ ] Освоить ML-разработку
 
 </details>
 
 <details>
 <summary>🔥 Долгосрочные цели</summary>
 
-- [ ] Стать Fullstack - разработчиком
 - [ ] Совершенствовать свои текущие знания, интересы и умения
 
 </details>
