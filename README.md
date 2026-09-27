@@ -43,6 +43,11 @@
     <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" height="50" />
 </div>
 
+### **📊 Data & Scientific Computing**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" height="50" />
+</div>
+
 ### **🧰 Tools & DevOps**
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=git" title="Git" height="50" />
@@ -127,6 +132,11 @@
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" height="50" />
     <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" height="50" />
+</div>
+
+### **📊 Анализ данных и научные вычисления**
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" height="50" />
 </div>
 
 ### **🧰 Инструменты и DevOps**
