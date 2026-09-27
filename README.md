@@ -46,7 +46,6 @@
 ### **📊 Data & Scientific Computing**
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" height="50" />
-  <img src="https://skillicons.dev/icons?i=numpy" title="FastAPI" height="50" />
 </div>
 
 ### **🧰 Tools & DevOps**
